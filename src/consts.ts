@@ -29,4 +29,8 @@ export const SOCIALS: Socials = [
     NAME: "LinkedIn",
     HREF: "https://www.linkedin.com/in/chih-yang-tsai-3780a9208",
   },
+  {
+    NAME: "RSS",
+    HREF: "/rss.xml",
+  },
 ];
